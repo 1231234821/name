@@ -1,0 +1,157 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("made by cruelxal", "DarkTheme")
+
+-- main
+
+local Main = Window:NewTab("Main Shit")
+local MainSection = Main:NewSection("Main")
+
+
+MainSection:NewButton("Khys Hub", "Dosent work for mp, use for playnow", function()
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/CoderMan123/KhyHub/main/Script"),true))()
+end)
+
+
+MainSection:NewButton("CEO Hub", "play now only", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CEOs-Hub/Script/main/.lua"))()
+end)
+
+
+MainSection:NewButton("RB World 4 hub", "works with mp", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/tututu1mn13/rbw4hub/main/script.lua'))()
+end)
+
+
+MainSection:NewButton("Skid hub for key click the 3 dots", "NewRBWORLD4SOOPLegend1!.", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Testing000/main/Rb%20world%204%20GUI"))()
+end)
+
+
+MainSection:NewButton("Farmer's Autotimer", "only use if on low ping", function()
+--PRESS Q TO USE AIMBOT
+--PRESS Q TO USE AIMBOT
+--PRESS Q TO USE AIMBOT
+--PRESS Q TO USE AIMBOT
+--PRESS Q TO USE AIMBOT
+--PRESS Q TO USE AIMBOT
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FarmerWestremade/FarmerHubV3/main/RbWorld4"))()
+end)
+
+
+
+MainSection:NewButton("Football Fusion 2 mags", "click basic scripts then scroll down it should be there", function()
+    --This Script Was Brought To You By 
+--________                              .___          ___ ___        ___.     
+--\______ \ _______   ____  _____     __| _/________ /   |   \  __ __\_ |__   
+-- |    |  \\_  __ \_/ __ \ \__  \   / __ | \___   //    ~    \|  |  \| __ \  
+-- |    `   \|  | \/\  ___/  / __ \_/ /_/ |  /    / \    Y    /|  |  /| \_\ \ 
+--/_______  /|__|    \___  >(____  /\____ | /_____ \ \___|_  / |____/ |___  / 
+--        \/             \/      \/      \/       \/       \/             \/  
+loadstring(game:HttpGet("https://pastebin.com/raw/ncfTBTyP"))()
+--Enjoy!
+end)
+
+
+
+
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("made by cruelxal", "DarkTheme")
+
+-- main
+
+local Main = Window:NewTab("Main Shit")
+local MainSection = Main:NewSection("Main")
+
+
+MainSection:NewButton("Khys Hub", "Dosent work for mp, use for playnow", function()
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/CoderMan123/KhyHub/main/Script"),true))()
+end)
+
+
+MainSection:NewButton("CEO Hub", "play now only", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CEOs-Hub/Script/main/.lua"))()
+end)
+
+
+MainSection:NewButton("RB World 4 hub", "works with mp", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/tututu1mn13/rbw4hub/main/script.lua'))()
+end)
+
+
+MainSection:NewButton("Skid hub for key click the 3 dots", "NewRBWORLD4SOOPLegend1!.", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Testing000/main/Rb%20world%204%20GUI"))()
+end)
+
+
+MainSection:NewButton("Farmer's Autotimer", "only use if on low ping", function()
+--PRESS Q TO USE AIMBOT
+--PRESS Q TO USE AIMBOT
+--PRESS Q TO USE AIMBOT
+--PRESS Q TO USE AIMBOT
+--PRESS Q TO USE AIMBOT
+--PRESS Q TO USE AIMBOT
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FarmerWestremade/FarmerHubV3/main/RbWorld4"))()
+end)
+
+
+
+MainSection:NewButton("Football Fusion 2 mags", "click basic scripts then scroll down it should be there", function()
+    --This Script Was Brought To You By 
+--________                              .___          ___ ___        ___.     
+--\______ \ _______   ____  _____     __| _/________ /   |   \  __ __\_ |__   
+-- |    |  \\_  __ \_/ __ \ \__  \   / __ | \___   //    ~    \|  |  \| __ \  
+-- |    `   \|  | \/\  ___/  / __ \_/ /_/ |  /    / \    Y    /|  |  /| \_\ \ 
+--/_______  /|__|    \___  >(____  /\____ | /_____ \ \___|_  / |____/ |___  / 
+--        \/             \/      \/      \/       \/       \/             \/  
+loadstring(game:HttpGet("https://pastebin.com/raw/ncfTBTyP"))()
+--Enjoy!
+end)
+
+
+
+
+
+MainSection:NewButton("South London 2 script", "monkey", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MonkeyHUBB/monkeyhub-sl2/main/README.md"))()
+end)
+
+
+
+
+
+MainSection:NewButton("Da hood script", "Works for all da hood type games", function()
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Rippeed/DaHoodinary/main/chariotsware"))()
+end)
+
+
+
+
+MainSection:NewButton("Arsenal script (NOT FOR JJSPLOIT)", "universal aimbot", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+end)
+
+
+
+
+MainSection:NewButton("unfair hub", "supports many games", function()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/rblxscriptsnet/unfair/main/rblxhub.lua'),true))()
+end)
+
+
+MainSection:NewButton("Hoopz script", "nun here", function()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/RTrade/Voidz/main/Games.lua'),true))()
+end)
+
+
+
+MainSection:NewButton("hoopS script", "hoops not hoopz", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/topitbopit/Hoops-GUI/main/beta.lua'))()
+end)
+
+
+MainSection:NewButton("Exunys universal aimbot", "just like owlhub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Aimbot-V2/main/Resources/Scripts/Aimbot%20V2%20GUI.lua"))()
+end)
+
+
+local Tab = Window:NewTab("More Coming soon")
